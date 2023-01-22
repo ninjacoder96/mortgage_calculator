@@ -29,6 +29,5 @@ public class Main{
 
         System.out.println("Monthly interest Rate :" + monthlyInterestRate);
         System.out.println("Mortgage: " + NumberFormat.getCurrencyInstance().format(Mortgage));
-
     }
 }
